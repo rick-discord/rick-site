@@ -60,8 +60,6 @@ align-self: normal;
 
 
 
-
-
 }
 .ttjoin {
     color: #ffffff;
@@ -83,7 +81,7 @@ span {
 .add_to_discord {
     display: flex;
     align-items: center;
-    background-color: blueviolet;
+    background-color: rgb(88, 101, 242);
     border-radius: 8px;
     border: 0;
     font-weight: 600;
